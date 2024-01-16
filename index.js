@@ -28,10 +28,6 @@ function createAndAppendCards() {
     cardContainer.classList.add("card-container");
     cardsContainer.appendChild(cardContainer);
 
-    // const cardImageContainer = document.createElement("div");
-    // cardImageContainer.classList.add("card-image-container");
-    // cardContainer.appendChild(cardImageContainer);
-
     const cardLogo = document.createElement("img");
     cardLogo.src = eachObj.image;
     cardLogo.alt = eachObj.title;

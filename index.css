@@ -77,14 +77,6 @@
   row-gap: 12px;
   background-color: #ffffff;
 }
-.card-image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100px;
-  height: 150px;
-  border: 1px solid red;
-}
 .card-logo {
   height: 80px;
 }

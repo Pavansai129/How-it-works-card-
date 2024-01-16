@@ -43,12 +43,13 @@
   font-weight: 400;
   color: #1d1d1f;
   text-align: center;
-  width: 70%;
+  width: 300px;
   margin-bottom: 20px;
 }
 @media (min-width: 768px) {
   .description {
     font-size: 14px;
+    width: 1000px;
   }
 }
 .cards-container {
